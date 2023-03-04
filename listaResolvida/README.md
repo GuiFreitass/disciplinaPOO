@@ -1,5 +1,4 @@
-# disciplinaPOO
-Atividades e Tds de POO
+
 
 Nº | Enunciado
 --------- | ------
