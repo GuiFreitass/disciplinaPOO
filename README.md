@@ -3,7 +3,14 @@ Atividades e Tds de POO
 
 Nº | Questão
 --------- | ------
-Exemplo 1 | R$ 10
-Exemplo 2 | R$ 8
-Exemplo 3 | R$ 7
-Exemplo 4 | R$ 8
+Lista Resolvida  
+q_01 | txtttt
+q_02 | txxxt
+q_03 | ttttxt
+q_04 | 
+q_05 | 
+q_06 |
+q_07 |
+q_08 |
+q_09 |
+q_10 |
