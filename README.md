@@ -1,6 +1,11 @@
-# disciplinaPOO
-Atividades e Tds de POO
+### Disciplina de Programação Orientada A Objetos <h3>
 
+<!-- [COMENTÁRIO]: CyanGif Code--> 
  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=15&center=true&vCenter=true&width=600&height=100&lines=Disciplina+de+POO..&hearts;++;Esse+repósitorio+apresenta+a+resolução+de+exercicíos+da+disciplina+de+POO,;Realizado+por:;Thalita+Suzy+e+Guilherme+Freitas,;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=15&center=true&vCenter=true&width=800&height=200&lines=Esse+repósitorio+apresenta+a+resolução+de+exercicíos+da+disciplina+de+POO.;"></a>
 </p>
+
+- Questões da lista resolvida. 
+- Questões da lista proposta.
+
+<!-- [COMENTÁRIO]: Thalita+Suzy+e+Guilherme+Freitas; --> 
