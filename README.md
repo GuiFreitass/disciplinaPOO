@@ -7,6 +7,6 @@
 
  
 - [Questões da lista resolvida](https://github.com/thalitaasuzy/disciplinaPOO/tree/main/listaResolvida)
-- [Questões da lista proposta]()
+- [Questões da lista proposta](https://github.com/thalitaasuzy/disciplinaPOO/tree/main/listaProposta)
 
 <!-- [COMENTÁRIO]: Thalita+Suzy+e+Guilherme+Freitas; --> 
