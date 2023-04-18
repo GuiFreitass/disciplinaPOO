@@ -10,19 +10,22 @@ public class Principal {
 		* b) a parte fracionária desse número: 
 		* c) o arredondamento desse número. */
 			
-				Scanner sc = new Scanner (System.in) ;
-				System.out.println("Digite um numero real:");
-				double real = sc.nextDouble() ;
-				System.out.println("O número que foi digitado é: "+ real);
-				//parte infeira
-				int inteiro= (int) real;
-				System.out.println("A parte inteira desse número é: " + inteiro);
-				//parte fracionada (OBS: nao bote numeros tão quebrados)
-				double fracionada = (real - inteiro) ;
-				System.out.println( "A parte fracionada desse número é: " +fracionada);
-				//numero arredondado
-				double arredondar = Math.rint(real);
-				System.out.println("O numero arredondada do numero é: " + arredondar);
+		Scanner sc = new Scanner (System.in);
+		System.out.println("Digite um número real:");
+		double real = sc.nextDouble();
+		System.out.println("O número que foi digitado é: " + real);
+		
+		//parte inteira
+		int inteiro = (int) real;
+		System.out.println("A parte inteira desse número é: " + inteiro);
+		
+		//parte fracionada (OBS: nao bote numeros tão quebrados)
+		double fracionada = (real - inteiro) ;
+		System.out.println( "A parte fracionada desse número é: " + fracionada);
+		
+		//numero arredondado
+		double arredondar = Math.rint(real);
+		System.out.println("O numero arredondada do numero é: " + arredondar);
 
 	}
 
