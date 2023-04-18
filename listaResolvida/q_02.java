@@ -11,14 +11,18 @@ public class Principal {
 		double nota1;
 		double nota2;
 		double nota3;
+		
 		System.out.println("Digite sua primeira nota");
-		nota1= sc.nextDouble() ;
+		nota1 = sc.nextDouble();
+		
 		System.out.println("Digite sua segunda nota");
-		nota2 = sc.nextDouble ();
+		nota2 = sc.nextDouble();
+		
 		System.out.println("Digite sua terceira nota");
-		nota3 = sc.nextDouble ();
+		nota3 = sc.nextDouble();
+		
 		double media1 = ((nota1+ nota2 + nota3)/2 ); 
-		System.out.println("Sua media foi: " + media1 );
+		System.out.println("Sua media é: " + media1 );
 
 			}
 			
