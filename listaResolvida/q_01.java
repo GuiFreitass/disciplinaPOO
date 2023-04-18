@@ -17,7 +17,7 @@ public class Principal {
 		System.out.println("Digite o quarto valor: ");
 		int num4 = sc.nextInt();
 
-		int somaDosNumeros = (num1 + num2+ num3+ num4);
+		int somaDosNumeros = (num1 + num2 + num3 + num4);
 		System.out.println("A soma dos números " + num1 + " + " + num2 + " + " + num3 + " + " + num4 + " = " + somaDosNumeros );
 
 	}
