@@ -7,6 +7,13 @@
 
 <br/>
 
+ <h4> Listas de Questões </h4>
+ 
+- Questões da [`Lista Resolvida`](https://github.com/thalitaasuzy/disciplinaPOO/tree/main/listaResolvida "Lista com Questôes Resolvidas") 
+- Questões da [`Lista Proposta`](https://github.com/thalitaasuzy/disciplinaPOO/tree/main/listaProposta "Lista com Questões Propostas") 
+
+ <br/>
+ 
 <h4> Sobre Java </h4>
 
 <div> 
@@ -26,12 +33,6 @@ Em resumo, hoje o Java é uma linguagem de programação poderosa e flexível qu
  
  <br/>
  
- <h4> Listas de Questões </h4>
- 
-- Questões da [`Lista Resolvida`](https://github.com/thalitaasuzy/disciplinaPOO/tree/main/listaResolvida "Lista com Questôes Resolvidas") 
-- Questões da [`Lista Proposta`](https://github.com/thalitaasuzy/disciplinaPOO/tree/main/listaProposta "Lista com Questões Propostas") 
-
- <br/>
  
  <h5>  Para mais informações sobre java, <a href="java.com/en/download/help/whatis_java.html" > clique aqui. </a> </h5>
  
