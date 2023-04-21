@@ -1,6 +1,7 @@
 ### Disciplina de Programação Orientada A Objetos <h3>
 
-![image](https://user-images.githubusercontent.com/112733274/233739247-c003084d-9a54-4a9f-a26d-6e31882b5515.png)
+<img src="https://user-images.githubusercontent.com/112733274/233740861-acbbbe09-f046-47c6-aa97-0027a6f2b768.png" />
+
 
 <!--Text Gif Code 
  <p align="center">
