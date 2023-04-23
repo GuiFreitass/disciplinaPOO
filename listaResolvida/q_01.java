@@ -8,6 +8,7 @@ public class Principal {
 		//Faça um programa que recebe quatro números inteiros, calcule e mostre a soma desses números.
 
 		Scanner sc = new Scanner(System.in) ;
+		System.out.println("Informe 4 números <<inteiros>> para calcular a soma. ");
 		System.out.println("Digite o primeiro valor: ");
 		int num1 = sc.nextInt();
 		System.out.println("Digite o segundo valor: ");
