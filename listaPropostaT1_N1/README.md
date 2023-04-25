@@ -1,4 +1,4 @@
-#ListaPoposta
+#ListaPopostaT1_N1
 Questão | Enunciado
 --------- | ------
 q_01|  Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.
