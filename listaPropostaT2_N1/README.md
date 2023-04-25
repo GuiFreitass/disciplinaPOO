@@ -1,4 +1,4 @@
-<h3> ListaPropostaT2_N1 </h3>
+<h3> ListaResolvidaT2_N1 </h3>
 
 Questão | Enunciado
 --------- | ------
