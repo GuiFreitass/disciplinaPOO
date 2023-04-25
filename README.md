@@ -15,8 +15,12 @@
 
  <h4> Listas de Questões </h4>
  
-- Questões da [`Lista Resolvida`](https://github.com/thalitaasuzy/disciplinaPOO/tree/main/listaResolvida "Lista com Questôes Resolvidas") 
-- Questões da [`Lista Proposta`](https://github.com/thalitaasuzy/disciplinaPOO/tree/main/listaProposta "Lista com Questões Propostas") 
+- Questões da [`Lista Resolvida - T1`](https://github.com/thalitaasuzy/disciplinaPOO/tree/main/listaResolvidaT1_N1 "Lista com Questôes Resolvidas") 
+- Questões da [`Lista Proposta - T1`](https://github.com/thalitaasuzy/disciplinaPOO/tree/main/listaPropostaT1_N1 "Lista com Questões Propostas") 
+- Questões da [`Lista Resolvida - T2`](https://github.com/thalitaasuzy/disciplinaPOO/tree/main/listaResolvidaT2_N2 "Lista com Questões Propostas") 
+- Questões da [`Lista Proposta - T2`](https://github.com/thalitaasuzy/disciplinaPOO/tree/main/listaPropostaT2_N1 "Lista com Questões Propostas") 
+- Questões da [`Lista - T3`](https://github.com/thalitaasuzy/disciplinaPOO/tree/main/listaT3_N1 "Lista com Questões Propostas") 
+
 
  <br/>
  
