@@ -1,5 +1,3 @@
-
-
 Nº | Enunciado
 --------- | ------
 Lista  | Questões Resolvidas  
