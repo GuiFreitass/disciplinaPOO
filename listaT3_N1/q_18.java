@@ -6,8 +6,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 		/*(18) Faça um programa que receba um número inteiro maior que 1 e verifique se o número fornecido é primo ou não. Mostrar mensagem de número primo ou de número não primo. 
-
-		 *Um número é primo quando é divisível apenas pelo número um e por ele mesmo.*/
+		 (Um número é primo quando é divisível apenas pelo número um e por ele mesmo.)*/
 		Scanner sc = new Scanner(System.in);
 
         System.out.println("Informe um número inteiro maior que 1:");
