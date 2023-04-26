@@ -2,6 +2,7 @@ Nº | Enunciado
 --------- | ------
 Lista  | Questões 
 q_06 | Foi feita uma estatistica em cinco cidade brasileiras para coletar dados sobre acidentes de trânsito. Foram OBTIDOS OS seguintes dados: a) código da cidade;b) número de veículos de passeio (em 1999); c) número de acidentes de trânsito com vítimas (em 1999); Deseja-se saber: a) qual o maior e menor índice de acidentes de trânsito e a que cidades pertecem; b) qual a média de veículos nas cinco cidades juntas; c) qual a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio
+q_14 | Faça um programa que calcule a soma dos 50 primeiros números pares. Esse progama não recebe valor do teclado. Os primeiros numeros pares são: 2, 4, 6...
 q_16 | Faça um programa que receba dois números. Calcule e mostre: • A soma dos números pares desse intervalo de números, incluindo os números digitados; • A multiplicação dos números ímpares desse intervalo de números, incluindo os números digitados.
 q_18 | Faça um programa que receba um número inteiro maior que 1 e verifique se o número fornecido é primo ou não. Mostrar mensagem de número primo ou de número não primo.  (Um número é primo quando é divisível apenas pelo número um e por ele mesmo.)
 q_23 | Faça um programa que receba o valor de uma dívida e mostre uma tabela com os seguintes dados: valor da dívida, valor dos juros, quantidades de parcelas e valor da parcela. Os juros e a quantidade de parcelas seguem a tabela abaixo:
